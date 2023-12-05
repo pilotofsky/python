@@ -1,4 +1,5 @@
 # python
+
 This Python script is designed to convert a log file in Common Log Format (CLF) to a CSV (Comma-Separated Values) file for easier analysis and manipulation of the data. Here's an overview of what the script does:
 
 **File Paths:**
