@@ -3,8 +3,8 @@ import re
 from datetime import datetime
 
 # Input and output file paths
-log_file_path = 'thinkvacm2-access.log.11.log' # file path of your log file
-csv_file_path = 'output.log.november.19.csv' # output file path to drop 
+log_file_path = 'filename.log' # file path of your log file
+csv_file_path = 'filename.csv' # output file path to drop 
 
 # Open log file for reading and CSV file for writing
 with open(log_file_path, 'r') as log_file, open(csv_file_path, 'w', newline='') as csv_file:
